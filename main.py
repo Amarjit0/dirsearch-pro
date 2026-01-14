@@ -1,0 +1,1 @@
+print("Dirsearch Pro starting...")
